@@ -1,6 +1,5 @@
 <resources>
     <string name="app_name">ProgrammingAccessories</string>
-    <string name=""><a href=""></a></string>
 
     <string name="catalannumber1"><a href="https://brilliant.org/wiki/catalan-numbers/">Briliant.org</a></string>
     <string name="catalannumber2"><a href="https://www.youtube.com/watch?v=GlI17WaMrtwt=1s">youtube</a></string>
@@ -14,8 +13,8 @@
 
     <string name="fermatslittletheorem1"><a href="https://brilliant.org/wiki/fermats-little-theorem">Brilliant.org</a></string>
     <string name="fermatslittletheorem2"><a href="https://en.wikipedia.org/wiki/Fermat%27s_little_theorem">Wikipedia</a></string>
-    <string name="fermatslittletheorem3"><a href="https://www.youtube.com/watch?v=w0ZQvZLx2KA"></a>Youtube</string>
-    <string name=""><a href="https://www.youtube.com/watch?v=NyLgJM_wX6k"></a></string>
+    <string name="fermatslittletheorem3"><a href="https://www.youtube.com/watch?v=w0ZQvZLx2KA">youtube</a>Youtube</string>
+    <string name="fermatslittletheorem4"><a href="https://www.youtube.com/watch?v=NyLgJM_wX6k">youtube</a></string>
 
     <string name="factorials1"><a href="https://brilliant.org/wiki/factorials-properties/"></a>Briliant.org</string>
     <string name="factorials2"><a href="https://en.wikipedia.org/wiki/Factorial">wikipedia</a></string>
@@ -29,28 +28,28 @@
 
 
     <string name="gcd1"><a href="https://brilliant.org/wiki/greatest-common-divisor/">brilliant.org</a></string>
-    <string name="gcd2"><a href="https://en.wikipedia.org/wiki/Greatest_common_divisor"></a></string>
-    <string name="gcd3"><a href="https://www.khanacademy.org/math/pre-algebra/pre-algebra-factors-multiples/pre-algebra-greatest-common-divisor/v/greatest-common-divisor"></a></string>
-    <string name="gcd4"><a href="https://www.youtube.com/watch?v=SD-rGbZBFw8"></a></string>
+    <string name="gcd2"><a href="https://en.wikipedia.org/wiki/Greatest_common_divisor">wikipedia.org</a></string>
+    <string name="gcd3"><a href="https://www.khanacademy.org/math/pre-algebra/pre-algebra-factors-multiples/pre-algebra-greatest-common-divisor/v/greatest-common-divisor">khanacademy</a></string>
+    <string name="gcd4"><a href="https://www.youtube.com/watch?v=SD-rGbZBFw8">youtube</a></string>
 
 
-    <string name="modulararithmetic1"><a href="http://www.shafaetsplanet.com/?p=936"></a></string>
-    <string name="modulararithmetic2"><a href="https://en.wikipedia.org/wiki/Modular_arithmetic"></a></string>
+    <string name="modulararithmetic1"><a href="http://www.shafaetsplanet.com/?p=936">shafaetplanet</a></string>
+    <string name="modulararithmetic2"><a href="https://en.wikipedia.org/wiki/Modular_arithmetic">wikipedia</a></string>
     <string name="modulararithmetic3"><a href="https://www.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/what-is-modular-arithmetic"></a></string>
-    <string name="modulararithmetic4"><a href="https://brilliant.org/wiki/modular-arithmetic/"></a></string>
-    <string name="modulararithmetic5"><a href="https://www.youtube.com/watch?v=l0DWLBX5d2A"></a></string>
-    <string name="modulararithmetic6"><a href="https://www.youtube.com/watch?v=SmD0H_q5Afk"></a></string>
-    <string name="modulararithmetic7"><a href="https://www.youtube.com/watch?v=oUYS7sbnh0Q"></a></string>
-    <string name="modulararithmetic8"><a href="https://www.youtube.com/watch?v=05mWvT2Gmr8"></a></string>
+    <string name="modulararithmetic4"><a href="https://brilliant.org/wiki/modular-arithmetic/">brilliant.org</a></string>
+    <string name="modulararithmetic5"><a href="https://www.youtube.com/watch?v=l0DWLBX5d2A">youtube</a></string>
+    <string name="modulararithmetic6"><a href="https://www.youtube.com/watch?v=SmD0H_q5Afk">youtube</a></string>
+    <string name="modulararithmetic7"><a href="https://www.youtube.com/watch?v=oUYS7sbnh0Q">youtube</a></string>
+    <string name="modulararithmetic8"><a href="https://www.youtube.com/watch?v=05mWvT2Gmr8">youtube</a></string>
 
-    <string name=""><a href="https://brilliant.org/wiki/perfect-numbers/"></a></string>
-    <string name=""><a href="https://en.wikipedia.org/wiki/Perfect_number"></a></string>
-    <string name=""><a href="http://mathforum.org/dr.math/faq/faq.perfect.html"></a></string>
-    <string name=""><a href="https://www.youtube.com/watch?v=T0xKHwQH-4I"></a></string>
+    <string name="perfectnumber1"><a href="https://brilliant.org/wiki/perfect-numbers/">brilliant.org</a></string>
+    <string name="perfectnumber2"><a href="https://en.wikipedia.org/wiki/Perfect_number">wikipedia</a></string>
+    <string name="perfectnumber3"><a href="http://mathforum.org/dr.math/faq/faq.perfect.html">mathforum.org</a></string>
+    <string name="perfectnumber4"><a href="https://www.youtube.com/watch?v=T0xKHwQH-4I">youtube</a></string>
 
-    <string name=""><a href="http://www.shafaetsplanet.com/?p=624"></a></string>
-    <string name=""><a href="http://www.shafaetsplanet.com/?p=855"></a></string>
-    <string name=""><a href="https://brilliant.org/wiki/prime-numbers/"></a></string>
-    <string name=""><a href="https://www.youtube.com/watch?v=V08g_lkKj6Q"></a></string>
-    <string name=""><a href="https://www.youtube.com/watch?v=mddMIafblQ4"></a></string>
+    <string name="primenumber1"><a href="http://www.shafaetsplanet.com/?p=624">shafaetplanet</a></string>
+    <string name="primenumber2"><a href="http://www.shafaetsplanet.com/?p=855">shafaetplanet</a></string>
+    <string name="primenumber3"><a href="https://brilliant.org/wiki/prime-numbers/">brilliant.org</a></string>
+    <string name="primenumber4"><a href="https://www.youtube.com/watch?v=V08g_lkKj6Q">youtube</a></string>
+    <string name="primenumber5"><a href="https://www.youtube.com/watch?v=mddMIafblQ4">youtube</a></string>
 </resources>
