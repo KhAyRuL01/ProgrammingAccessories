@@ -4,6 +4,7 @@
     <string name="catalannumber1"><a href="https://brilliant.org/wiki/catalan-numbers/">Briliant.org</a></string>
     <string name="catalannumber2"><a href="https://www.youtube.com/watch?v=GlI17WaMrtwt=1s">youtube</a></string>
     <string name="catalannumber3"><a href="https://en.wikipedia.org/wiki/Catalan_number"></a>Wikipedia</string>
+
     <string name="eulertotientfunction1"><a href="https://brilliant.org/wiki/eulers-totient-function/">Briliant.org</a></string>
     <string name="eulertotientfunction2"><a href="https://en.wikipedia.org/wiki/Euler%27s_totient_function"></a>Wikipedia</string>
     <string name="eulertotientfunction3"><a href="https://www.coursera.org/learn/number-theory-cryptography/lecture/wTmtM/eulers-totient-function">Coursera.org</a></string>
