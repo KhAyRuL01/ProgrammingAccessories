@@ -51,65 +51,105 @@
     <string name="primenumber4"><a href="https://www.youtube.com/watch?v=V08g_lkKj6Q">youtube</a></string>
     <string name="primenumber5"><a href="https://www.youtube.com/watch?v=mddMIafblQ4">youtube</a></string>
 
-    <string name="BinaryIndexTree_1"><a href="http://www.shafaetsplanet.com/?p=1961">By Shafaet Ashraf</a></string>
-    <string name="BinaryIndexTree_2"><a href="https://www.youtube.com/watch?v=v_wj_mOAlig">My CodeSchool</a></string>
-    <string name="BinaryIndexTree_3"><a href="https://www.youtube.com/watch?v=CWDQJGaN1gY">By Tushar Roy</a></string>
+    <string name="BinaryIndexTree1"><a href="http://www.shafaetsplanet.com/?p=1961">By Shafaet Ashraf</a></string>
+    <string name="BinaryIndexTree2"><a href="https://www.youtube.com/watch?v=v_wj_mOAlig">My CodeSchool</a></string>
+    <string name="BinaryIndexTree3"><a href="https://www.youtube.com/watch?v=CWDQJGaN1gY">By Tushar Roy</a></string>
 
-    <string name="DisjointSet_1"><a href="http://www.shafaetsplanet.com/?p=763">By Shafaet Ashraf</a></string>
-    <string name="DisjointSet_2"><a href="https://www.youtube.com/watch?v=ID00PMy0-vE">By tushar Roy</a></string>
-    <string name="DisjointSet_3"><a href="https://www.youtube.com/watch?v=UBY4sF86KEY">My CodeSchool</a></string>
+    <string name="DisjointSet1"><a href="http://www.shafaetsplanet.com/?p=763">By Shafaet Ashraf</a></string>
+    <string name="DisjointSet2"><a href="https://www.youtube.com/watch?v=ID00PMy0-vE">By tushar Roy</a></string>
+    <string name="DisjointSet3"><a href="https://www.youtube.com/watch?v=UBY4sF86KEY">My CodeSchool</a></string>
 
-    <string name="Queue_1"><a href="http://www.shafaetsplanet.com/?p=2911">By Shafaet Ashraf</a></string>
-    <string name="Queue_2"><a href="https://www.youtube.com/watch?v=XuCbpw6Bj1U">My CodeSchool</a></string>
-    <string name="Queue_3"><a href="https://www.youtube.com/watch?v=OxhYCLWMdHs">By Tushar Roy</a></string>
+    <string name="Queue1"><a href="http://www.shafaetsplanet.com/?p=2911">By Shafaet Ashraf</a></string>
+    <string name="Queue2"><a href="https://www.youtube.com/watch?v=XuCbpw6Bj1U">My CodeSchool</a></string>
+    <string name="Queue3"><a href="https://www.youtube.com/watch?v=OxhYCLWMdHs">By Tushar Roy</a></string>
 
-    <string name="SegmentTree_1"><a href="http://www.shafaetsplanet.com/?p=1557">By Shafaet Ashraf</a></string>
-    <string name="SegmentTree_2"><a href="https://www.youtube.com/watch?v=Oq2E2yGadnU">My CodeSchool</a></string>
-    <string name="SegmentTree_3"><a href="https://www.youtube.com/watch?v=ZBHKZF5w4YU">By Tushar Roy</a></string>
+    <string name="SegmentTree1"><a href="http://www.shafaetsplanet.com/?p=1557">By Shafaet Ashraf</a></string>
+    <string name="SegmentTree2"><a href="https://www.youtube.com/watch?v=Oq2E2yGadnU">My CodeSchool</a></string>
+    <string name="SegmentTree3"><a href="https://www.youtube.com/watch?v=ZBHKZF5w4YU">By Tushar Roy</a></string>
 
-    <string name="Heap_1"><a href="https://en.wikipedia.org/wiki/Heapsort">Wikipedia</a></string>
-    <string name="Heap_2"><a href="https://www.youtube.com/watch?v=PqS5T9ZKZno">By Mifta Sintaha</a></string>
-    <string name="Heap_3"><a href="https://www.youtube.com/watch?v=2fA1FdxNqiE">By Tushar Roy</a></string>
+    <string name="Heap1"><a href="https://en.wikipedia.org/wiki/Heapsort">Wikipedia</a></string>
+    <string name="Heap2"><a href="https://www.youtube.com/watch?v=PqS5T9ZKZno">By Mifta Sintaha</a></string>
+    <string name="Heap3"><a href="https://www.youtube.com/watch?v=2fA1FdxNqiE">By Tushar Roy</a></string>
 
-    <string name="Trie_1"><a href="http://www.shafaetsplanet.com/?p=1679">By Shafaet Ashraf</a></string>
-    <string name="Trie_2"><a href="https://www.youtube.com/watch?v=zIjfhVPRZCg">By HackerRank</a></string>
-    <string name="Trie_3"><a href="https://www.youtube.com/watch?v=AXjmTQ8LEoI">By Tushar Roy</a></string>
+    <string name="Trie1"><a href="http://www.shafaetsplanet.com/?p=1679">By Shafaet Ashraf</a></string>
+    <string name="Trie2"><a href="https://www.youtube.com/watch?v=zIjfhVPRZCg">By HackerRank</a></string>
+    <string name="Trie3"><a href="https://www.youtube.com/watch?v=AXjmTQ8LEoI">By Tushar Roy</a></string>
 
 
     // Graph Theory
 
 
-    <string name="AdjacencyList_1"><a href="http://www.shafaetsplanet.com/?p=211">By Shafaet Ashraf</a></string>
-    <string name="AdjacencyList_2"><a href="https://www.youtube.com/watch?v=ga-qET2bfVc">By Geeky Shows</a></string>
-    <string name="AdjacencyList_3"><a href="https://www.youtube.com/watch?v=k1wraWzqtvQ">My Codeschool</a></string>
+    <string name="AdjacencyList1"><a href="http://www.shafaetsplanet.com/?p=211">By Shafaet Ashraf</a></string>
+    <string name="AdjacencyList2"><a href="https://www.youtube.com/watch?v=ga-qET2bfVc">By Geeky Shows</a></string>
+    <string name="AdjacencyList3"><a href="https://www.youtube.com/watch?v=k1wraWzqtvQ">My Codeschool</a></string>
 
-    <string name="AdjacencyMtrix_1"><a href="http://www.shafaetsplanet.com/?p=184">By Shafaet Ashraf</a></string>
-    <string name="AdjacencyMtrix_2"><a href="https://www.youtube.com/watch?v=hwkkYLGCBRYc">By Vikki Mahato</a></string>
-    <string name="AdjacencyMtrix_3"><a href="https://www.youtube.com/watch?v=9C2cpQZVRBA">My Codeschool</a></string>
+    <string name="AdjacencyMtrix1"><a href="http://www.shafaetsplanet.com/?p=184">By Shafaet Ashraf</a></string>
+    <string name="AdjacencyMtrix2"><a href="https://www.youtube.com/watch?v=hwkkYLGCBRYc">By Vikki Mahato</a></string>
+    <string name="AdjacencyMtrix3"><a href="https://www.youtube.com/watch?v=9C2cpQZVRBA">My Codeschool</a></string>
 
-    <string name="BellmanFord_1"><a href="http://www.shafaetsplanet.com/?p=2044">By Shafaet Ashraf</a></string>
-    <string name="BellmanFord_2"><a href="https://www.youtube.com/watch?v=-mOEd_3gTK0">By tushar Roy</a></string>
-    <string name="BellmanFord_3"><a href="https://www.youtube.com/watch?v=iTW2yFYd1Nc">By Mifta Sintaha</a></string>
-
-
-    <string name="BFS_1"><a href="http://www.shafaetsplanet.com/?p=604">By Shafaet Ashraf</a></string>
-    <string name="BFS_2"><a href="https://www.youtube.com/watch?v=zaBhtODEL0w">By Hacker Rank</a></string>
-    <string name="BFS_3"><a href="https://www.youtube.com/watch?v=9RHO6jU--GU">Mycodeschool</a></string>
+    <string name="BellmanFord1"><a href="http://www.shafaetsplanet.com/?p=2044">By Shafaet Ashraf</a></string>
+    <string name="BellmanFord2"><a href="https://www.youtube.com/watch?v=-mOEd_3gTK0">By tushar Roy</a></string>
+    <string name="BellmanFord3"><a href="https://www.youtube.com/watch?v=iTW2yFYd1Nc">By Mifta Sintaha</a></string>
 
 
-
-    <string name="DFS_1"><a href="http://www.shafaetsplanet.com/?p=973">By Shafaet Ashraf</a></string>
-    <string name="DFS_2"><a href="https://www.youtube.com/watch?v=AfSk24UTFS8">By MIT</a></string>
-    <string name="DFS_3"><a href="https://www.youtube.com/watch?v=9RHO6jU--GU">Mycodeschool</a></string>
-
-    <string name="TopoLogicalSort_1"><a href="http://www.shafaetsplanet.com/?p=848">By Shafaet Ashraf</a></string>
-    <string name="TopoLogicalSort_2"><a href="https://www.youtube.com/watch?v=ddTC4Zovtbct=3s">By Tushar Roy</a></string>
-    <string name="TopoLogicalSort_3"><a href="https://www.youtube.com/watch?v=Q9PIxaNGnig">Mycodeschool</a></string>
+    <string name="BFS1"><a href="http://www.shafaetsplanet.com/?p=604">By Shafaet Ashraf</a></string>
+    <string name="BFS2"><a href="https://www.youtube.com/watch?v=zaBhtODEL0w">By Hacker Rank</a></string>
+    <string name="BFS3"><a href="https://www.youtube.com/watch?v=9RHO6jU--GU">Mycodeschool</a></string>
 
 
-    <string name="Warshal_1"><a href="http://www.shafaetsplanet.com/?p=1927">By Shafaet Ashraf</a></string>
-    <string name="Warshal_2"><a href="https://www.youtube.com/watch?v=LwJdNfdLF9s">By Tushar Roy</a></string>
-    <string name="Warshal_3"><a href="https://www.youtube.com/watch?v=meW98HdJaRI">By onlineTeachar</a></string>
+
+    <string name="DFS1"><a href="http://www.shafaetsplanet.com/?p=973">By Shafaet Ashraf</a></string>
+    <string name="DFS2"><a href="https://www.youtube.com/watch?v=AfSk24UTFS8">By MIT</a></string>
+    <string name="DFS3"><a href="https://www.youtube.com/watch?v=9RHO6jU--GU">Mycodeschool</a></string>
+
+    <string name="TopoLogicalSort1"><a href="http://www.shafaetsplanet.com/?p=848">By Shafaet Ashraf</a></string>
+    <string name="TopoLogicalSort2"><a href="https://www.youtube.com/watch?v=ddTC4Zovtbct=3s">By Tushar Roy</a></string>
+    <string name="TopoLogicalSort3"><a href="https://www.youtube.com/watch?v=Q9PIxaNGnig">Mycodeschool</a></string>
+
+
+    <string name="Warshal1"><a href="http://www.shafaetsplanet.com/?p=1927">By Shafaet Ashraf</a></string>
+    <string name="Warshal2"><a href="https://www.youtube.com/watch?v=LwJdNfdLF9s">By Tushar Roy</a></string>
+    <string name="Warshal3"><a href="https://www.youtube.com/watch?v=meW98HdJaRI">By onlineTeachar</a></string>
+
+    <string name="bublesort1"><a href=""></a></string>
+    <string name="bublesort2"><a href=""></a></string>
+    <string name="bublesort3"><a href=""></a></string>
+
+    <string name="insertion1"><a href=""></a></string>
+    <string name="insertion2"><a href=""></a></string>
+    <string name="insertion3"><a href=""></a></string>
+
+    <string name="heapsort1"><a href=""></a></string>
+    <string name="heapsort2"><a href=""></a></string>
+    <string name="heapsort3"><a href=""></a></string>
+
+    <string name="margesort1"><a href=""></a></string>
+    <string name="margesort2"><a href=""></a></string>
+    <string name="margesort3"><a href=""></a></string>
+
+    <string name="quicksort1"><a href=""></a></string>
+    <string name="quicksort2"><a href=""></a></string>
+    <string name="quicksort3"><a href=""></a></string>
+
+    <string name="selection1"><a href=""></a></string>
+    <string name="selection2"><a href=""></a></string>
+    <string name="selection3"><a href=""></a></string>
+
+    <string name="combinatorics1"><a href=""></a></string>
+    <string name="combinatorics2"><a href=""></a></string>
+    <string name="combinatorics3"><a href=""></a></string>
+
+    <string name="combination1"><a href=""></a></string>
+    <string name="combination2"><a href=""></a></string>
+    <string name="combination3"><a href=""></a></string>
+
+    <string name="inclusionexclution1"><a href=""></a></string>
+    <string name="inclusionexclution2"><a href=""></a></string>
+    <string name="inclusionexclution3"><a href=""></a></string>
+
+    <string name="permutation1"><a href=""></a></string>
+    <string name="permutation2"><a href=""></a></string>
+    <string name="permutation3"><a href=""></a></string>
 
 
 
