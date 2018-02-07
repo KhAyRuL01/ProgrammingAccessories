@@ -7,23 +7,23 @@
         android:id="@+id/textView2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true"
+        android:layout_alignLeft="@+id/textView4"
         android:layout_alignParentTop="true"
-        android:layout_marginTop="20dp"
+        android:layout_alignStart="@+id/textView4"
+        android:layout_marginTop="100dp"
         android:text="@string/fermatslittletheorem1"
-        android:textSize="25dp"/>
+        android:textSize="25dp" />
 
     <TextView
         android:id="@+id/textView3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignEnd="@+id/textView2"
-        android:layout_alignRight="@+id/textView2"
+        android:layout_alignLeft="@+id/textView4"
+        android:layout_alignStart="@+id/textView4"
         android:layout_below="@+id/textView2"
-        android:layout_marginTop="20dp"
+        android:layout_marginTop="23dp"
         android:text="@string/fermatslittletheorem2"
-        android:textSize="25dp"/>
+        android:textSize="25dp" />
 
     <TextView
         android:id="@+id/textView4"
@@ -32,21 +32,22 @@
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
         android:layout_below="@+id/textView3"
+        android:layout_marginLeft="72dp"
+        android:layout_marginStart="72dp"
         android:layout_marginTop="20dp"
         android:text="@string/fermatslittletheorem3"
-        android:textSize="25dp"/>
+        android:textSize="25dp" />
 
 
     <TextView
         android:id="@+id/textView5"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true"
+        android:layout_alignLeft="@+id/textView4"
+        android:layout_alignStart="@+id/textView4"
         android:layout_below="@+id/textView4"
-        android:layout_marginTop="20dp"
+        android:layout_marginTop="18dp"
         android:text="@string/fermatslittletheorem3"
-        android:textSize="25dp"
-        />
+        android:textSize="25dp" />
 
 </RelativeLayout>

@@ -8,7 +8,7 @@
 
     <RelativeLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content">
+        android:layout_height="match_parent">
 
 
         <EditText
@@ -176,13 +176,15 @@
             android:id="@+id/datastructure"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="5sp"
-            android:layout_below="@id/stirlingformula"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/stirlingformula"
+            android:layout_marginEnd="19dp"
+            android:layout_marginRight="19dp"
+            android:background="@null"
             android:text="   Data structure"
             android:textColor="@color/white"
-            android:textSize="40sp"
-            android:background="@null"
-            />
+            android:textSize="40sp" />
 
         <Button
             android:id="@+id/binaryindextree"
@@ -260,7 +262,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="5sp"
             android:layout_below="@id/segmenttree"
-            android:text="      Try"
+            android:text="      Trie"
             android:textAllCaps="false"
             android:textSize="25sp"
             android:textAlignment="viewStart"
