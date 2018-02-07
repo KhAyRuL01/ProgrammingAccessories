@@ -1,32 +1,32 @@
 <resources>
     <string name="app_name">ProgrammingAccessories</string>
 
-    <string name="catalannumber1"><a href="https://brilliant.org/wiki/catalan-numbers/">Briliant.org</a></string>
-    <string name="catalannumber2"><a href="https://www.youtube.com/watch?v=GlI17WaMrtwt=1s">youtube</a></string>
-    <string name="catalannumber3"><a href="https://en.wikipedia.org/wiki/Catalan_number"></a>Wikipedia</string>
+    <string name="catalannumber1"><a href="https://brilliant.org/wiki/catalan-numbers/">brilliant.org</a></string>
+    <string name="catalannumber2"><a href="https://www.youtube.com/watch?v=GlI17WaMrtwt=1s">Video by TheTrevTutor</a></string>
+    <string name="catalannumber3"><a href="https://en.wikipedia.org/wiki/Catalan_number"></a>wikipedia</string>
 
-    <string name="eulertotientfunction1"><a href="https://brilliant.org/wiki/eulers-totient-function/">Briliant.org</a></string>
-    <string name="eulertotientfunction2"><a href="https://en.wikipedia.org/wiki/Euler%27s_totient_function"></a>Wikipedia</string>
+    <string name="eulertotientfunction1"><a href="https://brilliant.org/wiki/eulers-totient-function/">brilliant.org</a></string>
+    <string name="eulertotientfunction2"><a href="https://en.wikipedia.org/wiki/Euler%27s_totient_function"></a>wikipedia</string>
     <string name="eulertotientfunction3"><a href="https://www.coursera.org/learn/number-theory-cryptography/lecture/wTmtM/eulers-totient-function">Coursera.org</a></string>
-    <string name="eulertotientfunction4"><a href="https://www.youtube.com/watch?v=F7a6XfxCjbE">Youtube</a></string>
+    <string name="eulertotientfunction4"><a href="https://www.youtube.com/watch?v=F7a6XfxCjbE">Video by Happy Learning</a></string>
 
     <string name="fermatslittletheorem1"><a href="https://brilliant.org/wiki/fermats-little-theorem">Brillant.org</a></string>
-    <string name="fermatslittletheorem2"><a href="https://en.wikipedia.org/wiki/Fermat%27s_little_theorem">Wikipedia</a></string>
-    <string name="fermatslittletheorem3"><a href="https://www.youtube.com/watch?v=w0ZQvZLx2KA">youtube</a></string>
-    <string name="fermatslittletheorem4"><a href="https://www.youtube.com/watch?v=NyLgJM_wX6k">youtube</a></string>
+    <string name="fermatslittletheorem2"><a href="https://en.wikipedia.org/wiki/Fermat%27s_little_theorem">wikipedia</a></string>
+    <string name="fermatslittletheorem3"><a href="https://www.youtube.com/watch?v=w0ZQvZLx2KA">Video by Socratica</a></string>
+    <string name="fermatslittletheorem4"><a href="https://www.youtube.com/watch?v=NyLgJM_wX6k">Video by Tanjina Rahman</a></string>
 
-    <string name="factorials1"><a href="https://brilliant.org/wiki/factorials-properties/"></a>Briliant.org</string>
+    <string name="factorials1"><a href="https://brilliant.org/wiki/factorials-properties/"></a>brilliant.org</string>
     <string name="factorials2"><a href="https://en.wikipedia.org/wiki/Factorial">wikipedia</a></string>
     <string name="factorials3"><a href="https://www.chilimath.com/lessons/intermediate-algebra/simplifying-factorials-with-variables/">chilimath.com</a></string>
-    <string name="factorials4"><a href="https://www.youtube.com/watch?v=4j66DS_XTSo">Youtube</a></string>
+    <string name="factorials4"><a href="https://www.youtube.com/watch?v=4j66DS_XTSo">Video by patrickJMT</a></string>
 
     <string name="fibonacci1"><a href="https://www.mathsisfun.com/numbers/fibonacci-sequence.html">mathsisfun.com</a></string>
     <string name="fibonacci2"><a href="https://en.wikipedia.org/wiki/Fibonacci_number">wikipedia</a></string>
     <string name="fibonacci3"><a href="http://forex.com.bd/topic/9721-fibonacci-%E0%A6%B8%E0%A6%AE%E0%A6%BE%E0%A6%9A%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A6%95%E0%A6%B2-%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%AC-%E0%A6%8F%E0%A6%95-%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%87/">bangla</a></string>
-    <string name="fibonacci4"><a href="https://www.youtube.com/watch?v=wTlw7fNcO-0">youtube</a></string>
+    <string name="fibonacci4"><a href="https://www.youtube.com/watch?v=wTlw7fNcO-0">Video by SciShow</a></string>
 
     <string name="gcd1"><a href="https://brilliant.org/wiki/greatest-common-divisor/">brilliant.org</a></string>
-    <string name="gcd2"><a href="https://en.wikipedia.org/wiki/Greatest_common_divisor">wikipedia.org</a></string>
+    <string name="gcd2"><a href="https://en.wikipedia.org/wiki/Greatest_common_divisor">wikipedia</a></string>
     <string name="gcd3"><a href="https://www.khanacademy.org/math/pre-algebra/pre-algebra-factors-multiples/pre-algebra-greatest-common-divisor/v/greatest-common-divisor">khanacademy</a></string>
     <string name="gcd4"><a href="https://www.youtube.com/watch?v=SD-rGbZBFw8">youtube</a></string>
 
@@ -35,122 +35,120 @@
     <string name="modulararithmetic2"><a href="https://en.wikipedia.org/wiki/Modular_arithmetic">wikipedia</a></string>
     <string name="modulararithmetic3"><a href="https://www.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/what-is-modular-arithmetic"></a></string>
     <string name="modulararithmetic4"><a href="https://brilliant.org/wiki/modular-arithmetic/">brilliant.org</a></string>
-    <string name="modulararithmetic5"><a href="https://www.youtube.com/watch?v=l0DWLBX5d2A">youtube</a></string>
-    <string name="modulararithmetic6"><a href="https://www.youtube.com/watch?v=SmD0H_q5Afk">youtube</a></string>
-    <string name="modulararithmetic7"><a href="https://www.youtube.com/watch?v=oUYS7sbnh0Q">youtube</a></string>
-    <string name="modulararithmetic8"><a href="https://www.youtube.com/watch?v=05mWvT2Gmr8">youtube</a></string>
+    <string name="modulararithmetic5"><a href="https://www.youtube.com/watch?v=l0DWLBX5d2A">Video by MathsSmart</a></string>
+    <string name="modulararithmetic6"><a href="https://www.youtube.com/watch?v=SmD0H_q5Afk">Video by Tanjina Rahman</a></string>
+    <string name="modulararithmetic7"><a href="https://www.youtube.com/watch?v=oUYS7sbnh0Q">Video by Tanjina Rahman</a></string>
+    <string name="modulararithmetic8"><a href="https://www.youtube.com/watch?v=05mWvT2Gmr8">Video by Tanjina Rahman</a></string>
 
     <string name="perfectnumber1"><a href="https://brilliant.org/wiki/perfect-numbers/">brilliant.org</a></string>
     <string name="perfectnumber2"><a href="https://en.wikipedia.org/wiki/Perfect_number">wikipedia</a></string>
     <string name="perfectnumber3"><a href="http://mathforum.org/dr.math/faq/faq.perfect.html">mathforum.org</a></string>
-    <string name="perfectnumber4"><a href="https://www.youtube.com/watch?v=T0xKHwQH-4I">youtube</a></string>
+    <string name="perfectnumber4"><a href="https://www.youtube.com/watch?v=T0xKHwQH-4I">Video by Numberphile</a></string>
 
     <string name="primenumber1"><a href="http://www.shafaetsplanet.com/?p=624">shafaetplanet</a></string>
     <string name="primenumber2"><a href="http://www.shafaetsplanet.com/?p=855">shafaetplanet</a></string>
     <string name="primenumber3"><a href="https://brilliant.org/wiki/prime-numbers/">brilliant.org</a></string>
-    <string name="primenumber4"><a href="https://www.youtube.com/watch?v=V08g_lkKj6Q">youtube</a></string>
-    <string name="primenumber5"><a href="https://www.youtube.com/watch?v=mddMIafblQ4">youtube</a></string>
+    <string name="primenumber4"><a href="https://www.youtube.com/watch?v=V08g_lkKj6Q">Video by Region 10 ESC</a></string>
+    <string name="primenumber5"><a href="https://www.youtube.com/watch?v=mddMIafblQ4">Video by O-Level Mathematics</a></string>
 
     <string name="BinaryIndexTree1"><a href="http://www.shafaetsplanet.com/?p=1961">By Shafaet Ashraf</a></string>
-    <string name="BinaryIndexTree2"><a href="https://www.youtube.com/watch?v=v_wj_mOAlig">My CodeSchool</a></string>
-    <string name="BinaryIndexTree3"><a href="https://www.youtube.com/watch?v=CWDQJGaN1gY">By Tushar Roy</a></string>
+    <string name="BinaryIndexTree2"><a href="https://www.youtube.com/watch?v=v_wj_mOAlig">Vidoe My CodeSchool</a></string>
+    <string name="BinaryIndexTree3"><a href="https://www.youtube.com/watch?v=CWDQJGaN1gY">Video by Tushar Roy</a></string>
 
     <string name="DisjointSet1"><a href="http://www.shafaetsplanet.com/?p=763">By Shafaet Ashraf</a></string>
-    <string name="DisjointSet2"><a href="https://www.youtube.com/watch?v=ID00PMy0-vE">By tushar Roy</a></string>
-    <string name="DisjointSet3"><a href="https://www.youtube.com/watch?v=UBY4sF86KEY">My CodeSchool</a></string>
+    <string name="DisjointSet2"><a href="https://www.youtube.com/watch?v=ID00PMy0-vE">Video by tushar Roy</a></string>
+    <string name="DisjointSet3"><a href="https://www.youtube.com/watch?v=UBY4sF86KEY">Video by CodeSchool</a></string>
 
     <string name="Queue1"><a href="http://www.shafaetsplanet.com/?p=2911">By Shafaet Ashraf</a></string>
-    <string name="Queue2"><a href="https://www.youtube.com/watch?v=XuCbpw6Bj1U">My CodeSchool</a></string>
-    <string name="Queue3"><a href="https://www.youtube.com/watch?v=OxhYCLWMdHs">By Tushar Roy</a></string>
+    <string name="Queue2"><a href="https://www.youtube.com/watch?v=XuCbpw6Bj1U">Video by CodeSchool</a></string>
+    <string name="Queue3"><a href="https://www.youtube.com/watch?v=OxhYCLWMdHs">Video by Tushar Roy</a></string>
 
     <string name="SegmentTree1"><a href="http://www.shafaetsplanet.com/?p=1557">By Shafaet Ashraf</a></string>
-    <string name="SegmentTree2"><a href="https://www.youtube.com/watch?v=Oq2E2yGadnU">My CodeSchool</a></string>
-    <string name="SegmentTree3"><a href="https://www.youtube.com/watch?v=ZBHKZF5w4YU">By Tushar Roy</a></string>
+    <string name="SegmentTree2"><a href="https://www.youtube.com/watch?v=Oq2E2yGadnU">Video by CodeSchool</a></string>
+    <string name="SegmentTree3"><a href="https://www.youtube.com/watch?v=ZBHKZF5w4YU">Video by Tushar Roy</a></string>
 
-    <string name="Heap1"><a href="https://en.wikipedia.org/wiki/Heapsort">Wikipedia</a></string>
-    <string name="Heap2"><a href="https://www.youtube.com/watch?v=PqS5T9ZKZno">By Mifta Sintaha</a></string>
-    <string name="Heap3"><a href="https://www.youtube.com/watch?v=2fA1FdxNqiE">By Tushar Roy</a></string>
+    <string name="Heap1"><a href="https://en.wikipedia.org/wiki/Heapsort">wikipedia</a></string>
+    <string name="Heap2"><a href="https://www.youtube.com/watch?v=PqS5T9ZKZno">Video by Mifta Sintaha</a></string>
+    <string name="Heap3"><a href="https://www.youtube.com/watch?v=2fA1FdxNqiE">Vidoe by Tushar Roy</a></string>
 
     <string name="Trie1"><a href="http://www.shafaetsplanet.com/?p=1679">By Shafaet Ashraf</a></string>
-    <string name="Trie2"><a href="https://www.youtube.com/watch?v=zIjfhVPRZCg">By HackerRank</a></string>
-    <string name="Trie3"><a href="https://www.youtube.com/watch?v=AXjmTQ8LEoI">By Tushar Roy</a></string>
+    <string name="Trie2"><a href="https://www.youtube.com/watch?v=zIjfhVPRZCg">Video by HackerRank</a></string>
+    <string name="Trie3"><a href="https://www.youtube.com/watch?v=AXjmTQ8LEoI">Video by Tushar Roy</a></string>
 
 
     // Graph Theory
 
 
     <string name="AdjacencyList1"><a href="http://www.shafaetsplanet.com/?p=211">By Shafaet Ashraf</a></string>
-    <string name="AdjacencyList2"><a href="https://www.youtube.com/watch?v=ga-qET2bfVc">By Geeky Shows</a></string>
-    <string name="AdjacencyList3"><a href="https://www.youtube.com/watch?v=k1wraWzqtvQ">My Codeschool</a></string>
+    <string name="AdjacencyList2"><a href="https://www.youtube.com/watch?v=ga-qET2bfVc">Vidoe by Geeky Shows</a></string>
+    <string name="AdjacencyList3"><a href="https://www.youtube.com/watch?v=k1wraWzqtvQ">Video by Codeschool</a></string>
 
     <string name="AdjacencyMtrix1"><a href="http://www.shafaetsplanet.com/?p=184">By Shafaet Ashraf</a></string>
-    <string name="AdjacencyMtrix2"><a href="https://www.youtube.com/watch?v=hwkkYLGCBRYc">By Vikki Mahato</a></string>
-    <string name="AdjacencyMtrix3"><a href="https://www.youtube.com/watch?v=9C2cpQZVRBA">My Codeschool</a></string>
+    <string name="AdjacencyMtrix2"><a href="https://www.youtube.com/watch?v=hwkkYLGCBRYc">Video by Vikki Mahato</a></string>
+    <string name="AdjacencyMtrix3"><a href="https://www.youtube.com/watch?v=9C2cpQZVRBA">Video by Codeschool</a></string>
 
     <string name="BellmanFord1"><a href="http://www.shafaetsplanet.com/?p=2044">By Shafaet Ashraf</a></string>
-    <string name="BellmanFord2"><a href="https://www.youtube.com/watch?v=-mOEd_3gTK0">By tushar Roy</a></string>
-    <string name="BellmanFord3"><a href="https://www.youtube.com/watch?v=iTW2yFYd1Nc">By Mifta Sintaha</a></string>
+    <string name="BellmanFord2"><a href="https://www.youtube.com/watch?v=-mOEd_3gTK0">Video by tushar Roy</a></string>
+    <string name="BellmanFord3"><a href="https://www.youtube.com/watch?v=iTW2yFYd1Nc">Video by Mifta Sintaha</a></string>
 
 
     <string name="BFS1"><a href="http://www.shafaetsplanet.com/?p=604">By Shafaet Ashraf</a></string>
-    <string name="BFS2"><a href="https://www.youtube.com/watch?v=zaBhtODEL0w">By Hacker Rank</a></string>
-    <string name="BFS3"><a href="https://www.youtube.com/watch?v=9RHO6jU--GU">Mycodeschool</a></string>
+    <string name="BFS2"><a href="https://www.youtube.com/watch?v=zaBhtODEL0w">Video by Hacker Rank</a></string>
+    <string name="BFS3"><a href="https://www.youtube.com/watch?v=9RHO6jU--GU">Video by Mycodeschool</a></string>
 
 
 
     <string name="DFS1"><a href="http://www.shafaetsplanet.com/?p=973">By Shafaet Ashraf</a></string>
-    <string name="DFS2"><a href="https://www.youtube.com/watch?v=AfSk24UTFS8">By MIT</a></string>
-    <string name="DFS3"><a href="https://www.youtube.com/watch?v=9RHO6jU--GU">Mycodeschool</a></string>
+    <string name="DFS2"><a href="https://www.youtube.com/watch?v=AfSk24UTFS8">Video by MIT</a></string>
+    <string name="DFS3"><a href="https://www.youtube.com/watch?v=9RHO6jU--GU">Video by Mycodeschool</a></string>
 
     <string name="TopoLogicalSort1"><a href="http://www.shafaetsplanet.com/?p=848">By Shafaet Ashraf</a></string>
-    <string name="TopoLogicalSort2"><a href="https://www.youtube.com/watch?v=ddTC4Zovtbct=3s">By Tushar Roy</a></string>
-    <string name="TopoLogicalSort3"><a href="https://www.youtube.com/watch?v=Q9PIxaNGnig">Mycodeschool</a></string>
+    <string name="TopoLogicalSort2"><a href="https://www.youtube.com/watch?v=ddTC4Zovtbct=3s">Video by Tushar Roy</a></string>
+    <string name="TopoLogicalSort3"><a href="https://www.youtube.com/watch?v=Q9PIxaNGnig">Video by Mycodeschool</a></string>
 
 
     <string name="Warshal1"><a href="http://www.shafaetsplanet.com/?p=1927">By Shafaet Ashraf</a></string>
-    <string name="Warshal2"><a href="https://www.youtube.com/watch?v=LwJdNfdLF9s">By Tushar Roy</a></string>
-    <string name="Warshal3"><a href="https://www.youtube.com/watch?v=meW98HdJaRI">By onlineTeachar</a></string>
+    <string name="Warshal2"><a href="https://www.youtube.com/watch?v=LwJdNfdLF9s">Video by Tushar Roy</a></string>
+    <string name="Warshal3"><a href="https://www.youtube.com/watch?v=meW98HdJaRI">Video by onlineTeachar</a></string>
 
-    <string name="bublesort1"><a href=""></a></string>
-    <string name="bublesort2"><a href=""></a></string>
-    <string name="bublesort3"><a href=""></a></string>
+    <string name="bublesort1"><a href="https://www.tutorialspoint.com/data_structures_algorithms/bubble_sort_algorithm.htm">tutorialpoint</a></string>
+    <string name="bublesort2"><a href="https://www.geeksforgeeks.org/bubble-sort/">geeksforgeeks.org</a></string>
+    <string name="bublesort3"><a href="https://www.youtube.com/watch?v=TL2_3sqvogo">Video by Kalim Amzad</a></string>
+    <string name="bublesort4"><a href="https://www.youtube.com/watch?v=Jdtq5uKz-w4list=PL2_aWCzGMAwKedT2KfDMB9YA5DgASZb3Uindex=3">Video by Mycodeschool</a></string>
 
-    <string name="insertion1"><a href=""></a></string>
-    <string name="insertion2"><a href=""></a></string>
-    <string name="insertion3"><a href=""></a></string>
 
-    <string name="heapsort1"><a href=""></a></string>
-    <string name="heapsort2"><a href=""></a></string>
-    <string name="heapsort3"><a href=""></a></string>
+    <string name="insertion1"><a href="https://en.wikipedia.org/wiki/Insertion_sort">wikipedia</a></string>
+    <string name="insertion2"><a href="https://www.geeksforgeeks.org/insertion-sort/">geeksforgeeks.org</a></string>
+    <string name="insertion3"><a href="https://www.youtube.com/watch?v=i-SKeOcBwko">Video by Codeschool</a></string>
 
-    <string name="margesort1"><a href=""></a></string>
-    <string name="margesort2"><a href=""></a></string>
-    <string name="margesort3"><a href=""></a></string>
 
-    <string name="quicksort1"><a href=""></a></string>
-    <string name="quicksort2"><a href=""></a></string>
-    <string name="quicksort3"><a href=""></a></string>
+    <string name="heapsort1"><a href="https://www.geeksforgeeks.org/heap-sort/">Video by geeksforgeeks.org</a></string>
+    <string name="heapsort2"><a href="https://www.hackerearth.com/practice/algorithms/sorting/heap-sort/tutorial/">hackerearth.com</a></string>
+    <string name="heapsort3"><a href="https://www.youtube.com/watch?v=t0Cq6tVNRBA">Video by HackerRank</a></string>
 
-    <string name="selection1"><a href=""></a></string>
-    <string name="selection2"><a href=""></a></string>
-    <string name="selection3"><a href=""></a></string>
+    <string name="margesort1"><a href="https://www.hackerearth.com/practice/algorithms/sorting/merge-sort/tutorial/">hackerearth.com</a></string>
+    <string name="margesort2"><a href="https://brilliant.org/wiki/merge/">brilliant.org</a></string>
+    <string name="margesort3"><a href="https://www.youtube.com/watch?v=TzeBrDU-JaY">Video by Codeschool</a></string>
 
-    <string name="combinatorics1"><a href=""></a></string>
-    <string name="combinatorics2"><a href=""></a></string>
-    <string name="combinatorics3"><a href=""></a></string>
+    <string name="quicksort1"><a href="https://www.geeksforgeeks.org/quick-sort/">geeksforgeeks.org</a></string>
+    <string name="quicksort2"><a href="https://en.wikipedia.org/wiki/Quicksort">wikipedia</a></string>
+    <string name="quicksort3"><a href="https://www.youtube.com/watch?v=COk73cpQbFQt=231s">Video by Codeschool</a></string>
 
-    <string name="combination1"><a href=""></a></string>
-    <string name="combination2"><a href=""></a></string>
-    <string name="combination3"><a href=""></a></string>
+    <string name="selection1"><a href="https://en.wikipedia.org/wiki/Selection_sort">wikipedia.org</a></string>
+    <string name="selection2"><a href="https://www.tutorialspoint.com/data_structures_algorithms/selection_sort_algorithm.htm">tutorialspoint.com</a></string>
+    <string name="selection3"><a href="https://www.youtube.com/watch?v=GUDLRan2DWMlist=PL2_aWCzGMAwKedT2KfDMB9YA5DgASZb3Uindex=2">Video by Codeschool</a></string>
 
-    <string name="inclusionexclution1"><a href=""></a></string>
-    <string name="inclusionexclution2"><a href=""></a></string>
-    <string name="inclusionexclution3"><a href=""></a></string>
+    <string name="combination1"><a href="https://en.wikipedia.org/wiki/Combination">wikipedia</a></string>
+    <string name="combination2"><a href="https://brilliant.org/wiki/combinations/"></a></string>
+    <string name="combination3"><a href="https://www.youtube.com/watch?v=p8vIcmr_Pqo">Video by Khan Academy</a></string>
 
-    <string name="permutation1"><a href=""></a></string>
-    <string name="permutation2"><a href=""></a></string>
-    <string name="permutation3"><a href=""></a></string>
+    <string name="inclusionexclution1"><a href="https://en.wikipedia.org/wiki/Inclusion%E2%80%93exclusion_principle">wikipedia.org</a></string>
+    <string name="inclusionexclution2"><a href="https://brilliant.org/wiki/principle-of-inclusion-and-exclusion-pie/">brilliant.org/wiki</a></string>
+    <string name="inclusionexclution3"><a href="https://www.youtube.com/watch?v=GS7dIWA6Hpo">Video by TheTrevTutor</a></string>
 
+    <string name="permutation1"><a href="https://en.wikipedia.org/wiki/Permutation">wikipedia</a></string>
+    <string name="permutation2"><a href="https://brilliant.org/wiki/permutations/">brilliant.org</a></string>
+    <string name="permutation3"><a href="https://www.youtube.com/watch?v=DROZVHObeko">Video by Khan Academy</a></string>
 
 
 
