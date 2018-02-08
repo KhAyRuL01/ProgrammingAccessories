@@ -14,7 +14,7 @@
         android:layout_marginTop="60dp"
         android:text="@string/permutation1"
         android:textColor="@color/white"
-        android:textSize="20sp" />
+        android:textSize="25dp" />
 
 
     <TextView
@@ -27,7 +27,7 @@
         android:layout_marginTop="25dp"
         android:text="@string/permutation2"
         android:textColor="@color/white"
-        android:textSize="20sp" />
+        android:textSize="25dp" />
 
     <TextView
         android:id="@+id/textView9"
@@ -41,7 +41,7 @@
         android:layout_marginTop="25dp"
         android:text="@string/permutation3"
         android:textColor="@color/white"
-        android:textSize="23sp" />
+        android:textSize="25sp" />
 
 
 </RelativeLayout>

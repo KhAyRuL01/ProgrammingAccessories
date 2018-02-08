@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    android:background="@drawable/nancy1">
 
 
     <TextView
@@ -13,7 +14,9 @@
         android:layout_alignStart="@+id/textView3"
         android:layout_marginTop="102dp"
         android:text="@string/eulertotientfunction1"
-        android:textSize="25dp" />
+        android:textSize="25dp"
+        android:textColor="@color/white"
+        />
 
     <TextView
         android:id="@+id/textView3"
@@ -24,7 +27,8 @@
         android:layout_below="@+id/textView2"
         android:layout_marginTop="35dp"
         android:text="@string/eulertotientfunction2"
-        android:textSize="25dp" />
+        android:textSize="25dp"
+        android:textColor="@color/white"/>
 
     <TextView
         android:id="@+id/textView4"
@@ -35,7 +39,8 @@
         android:layout_below="@+id/textView3"
         android:layout_marginTop="29dp"
         android:text="@string/eulertotientfunction3"
-        android:textSize="25dp" />
+        android:textSize="25dp"
+        android:textColor="@color/white"/>
 
     <TextView
         android:id="@+id/textView1"
@@ -45,6 +50,7 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="25dp"
         android:text="@string/eulertotientfunction4"
-        android:textSize="25dp" />
+        android:textSize="25dp"
+        android:textColor="@color/white"/>
 
 </RelativeLayout>
