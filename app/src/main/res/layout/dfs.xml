@@ -15,7 +15,8 @@
         android:text="@string/DFS1"
         android:textColor="@color/white"
         android:textSize="25sp"
-        android:onClick="click" />
+        android:onClick="click"
+        android:textColorLink="@color/white"/>
 
     <TextView
         android:id="@+id/textView8"
@@ -28,7 +29,8 @@
         android:text="@string/DFS2"
         android:textColor="@color/white"
         android:textSize="25sp"
-        android:onClick="click" />
+        android:onClick="click"
+        android:textColorLink="@color/white"/>
 
     <TextView
         android:id="@+id/textView9"
@@ -43,7 +45,8 @@
         android:text="@string/DFS3"
         android:textColor="@color/white"
         android:textSize="25sp"
-        android:onClick="click" />
+        android:onClick="click"
+        android:textColorLink="@color/white"/>
 
     <Button
         android:id="@+id/button"

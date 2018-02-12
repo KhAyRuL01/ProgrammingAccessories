@@ -17,6 +17,7 @@
         android:text="@string/gcd1"
         android:textSize="25dp"
         android:textColor="@color/white"
+        android:textColorLink="@color/white"
         android:onClick="click"/>
 
     <TextView
@@ -30,6 +31,7 @@
         android:text="@string/gcd2"
         android:textSize="25dp"
         android:textColor="@color/white"
+        android:textColorLink="@color/white"
         android:onClick="click"/>
 
     <TextView
@@ -42,6 +44,7 @@
         android:layout_marginTop="20dp"
         android:text="@string/gcd3"
         android:textSize="25dp"
+        android:textColorLink="@color/white"
         android:textColor="@color/white"
         android:onClick="click"/>
 
@@ -53,10 +56,12 @@
         android:layout_alignStart="@+id/textView3"
         android:layout_below="@+id/textView3"
         android:layout_marginTop="18dp"
+        android:textColorLink="@color/white"
         android:text="@string/gcd4"
         android:textSize="25dp"
         android:textColor="@color/white"
         android:onClick="click"/>
+
     <Button
         android:id="@+id/button"
         android:layout_width="wrap_content"

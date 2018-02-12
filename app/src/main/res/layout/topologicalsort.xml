@@ -15,6 +15,7 @@
         android:text="@string/TopoLogicalSort1"
         android:onClick="click"
         android:textColor="@color/white"
+        android:textColorLink="@color/white"
         android:textSize="25sp" />
 
     <TextView
@@ -28,6 +29,7 @@
         android:text="@string/TopoLogicalSort2"
         android:textColor="@color/white"
         android:onClick="click"
+        android:textColorLink="@color/white"
         android:textSize="25sp" />
 
     <TextView
@@ -43,6 +45,7 @@
         android:text="@string/TopoLogicalSort3"
         android:onClick="click"
         android:textColor="@color/white"
+        android:textColorLink="@color/white"
         android:textSize="25sp" />
 
     <Button

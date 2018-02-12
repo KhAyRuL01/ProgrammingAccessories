@@ -15,6 +15,7 @@
         android:text="@string/selection1"
         android:textColor="@color/white"
         android:textSize="25sp"
+        android:textColorLink="@color/white"
         android:onClick="click" />
 
     <TextView
@@ -28,6 +29,7 @@
         android:text="@string/selection2"
         android:textColor="@color/white"
         android:textSize="25sp"
+        android:textColorLink="@color/white"
         android:onClick="click" />
 
     <TextView
@@ -43,6 +45,7 @@
         android:text="@string/selection3"
         android:textColor="@color/white"
         android:textSize="25sp"
+        android:textColorLink="@color/white"
         android:onClick="click" />
 
     <Button

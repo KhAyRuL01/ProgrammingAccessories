@@ -16,6 +16,7 @@
         android:textSize="25dp"
         android:layout_marginLeft="40dp"
         android:textColor="@color/white"
+        android:textColorLink="@color/white"
         android:onClick="click"/>
 
     <TextView
@@ -28,6 +29,7 @@
         android:layout_marginTop="20dp"
         android:text="@string/primenumber2"
         android:textSize="25dp"
+        android:textColorLink="@color/white"
         android:layout_marginLeft="40dp"
         android:textColor="@color/white"
         android:onClick="click"/>
@@ -42,6 +44,7 @@
         android:layout_marginTop="20dp"
         android:text="@string/primenumber3"
         android:textSize="25dp"
+        android:textColorLink="@color/white"
         android:layout_marginLeft="40dp"
         android:textColor="@color/white"
         android:onClick="click"/>
@@ -56,9 +59,11 @@
         android:layout_marginTop="20dp"
         android:text="@string/primenumber4"
         android:textSize="25dp"
+        android:textColorLink="@color/white"
         android:layout_marginLeft="40dp"
         android:textColor="@color/white"
         android:onClick="click"/>
+
     <Button
         android:id="@+id/button"
         android:layout_width="wrap_content"

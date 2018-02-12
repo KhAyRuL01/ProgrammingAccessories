@@ -14,6 +14,7 @@
         android:layout_marginTop="60dp"
         android:text="@string/fibonacci1"
         android:textSize="25dp"
+        android:textColorLink="@color/white"
         android:textColor="@color/white"
         android:onClick="click"/>
 
@@ -27,6 +28,7 @@
         android:layout_marginTop="25dp"
         android:text="@string/fibonacci2"
         android:textSize="25dp"
+        android:textColorLink="@color/white"
         android:textColor="@color/white"
         android:onClick="click"/>
 
@@ -40,6 +42,7 @@
         android:layout_marginTop="25dp"
         android:text="@string/fibonacci3"
         android:textSize="25dp"
+        android:textColorLink="@color/white"
         android:textColor="@color/white"
         android:onClick="click"/>
 
@@ -68,6 +71,7 @@
         android:background="@null"
         android:onClick="showProgramming"
         android:text="Back"
+        android:textColorLink="@color/white"
         android:textColor="@color/white"
         android:textSize="20dp"/>
 
