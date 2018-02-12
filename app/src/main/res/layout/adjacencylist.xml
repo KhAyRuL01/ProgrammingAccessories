@@ -55,8 +55,7 @@
         android:background="@null"
         android:onClick="showProgramming"
         android:text="Back"
-        android:textColor="@color/white"
-        android:onClick="click"/>
+        android:textColor="@color/white" />
 
     <Button
         android:id="@+id/button4"

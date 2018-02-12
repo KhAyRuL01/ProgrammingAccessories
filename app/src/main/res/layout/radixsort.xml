@@ -43,7 +43,7 @@
         android:text="@string/BinaryIndexTree3"
         android:textColor="@color/white"
         android:textSize="23sp"
-        android:onClick="click"s />
+        android:onClick="click" />
 
 
     <Button
