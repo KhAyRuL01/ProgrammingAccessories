@@ -15,7 +15,8 @@
         android:layout_marginTop="60dp"
         android:text="@string/modulararithmetic1"
         android:textSize="25dp"
-        android:textColor="@color/white"/>
+        android:textColor="@color/white"
+        android:onClick="click"/>
 
     <TextView
         android:id="@+id/textView2"
@@ -28,7 +29,8 @@
         android:layout_marginTop="22dp"
         android:text="@string/modulararithmetic2"
         android:textSize="25dp"
-        android:textColor="@color/white"/>
+        android:textColor="@color/white"
+        android:onClick="click"/>
 
     <TextView
         android:id="@+id/textView3"
@@ -41,7 +43,8 @@
         android:layout_marginTop="20dp"
         android:text="modulararithmetic3"
         android:textSize="25dp"
-        android:textColor="@color/white"/>
+        android:textColor="@color/white"
+        android:onClick="click"/>
 
     <TextView
         android:id="@+id/textView4"
@@ -54,7 +57,8 @@
         android:layout_marginLeft="40dp"
         android:text="@string/modulararithmetic4"
         android:textSize="25dp"
-        android:textColor="@color/white"/>
+        android:textColor="@color/white"
+        android:onClick="click"/>
 
     <TextView
         android:id="@+id/textView5"
@@ -67,7 +71,8 @@
         android:layout_marginTop="20dp"
         android:text="@string/modulararithmetic5"
         android:textSize="25dp"
-        android:textColor="@color/white"/>
+        android:textColor="@color/white"
+        android:onClick="click"/>
 
     <TextView
         android:id="@+id/textView6"
@@ -80,7 +85,8 @@
         android:layout_marginTop="20dp"
         android:text="@string/modulararithmetic6"
         android:textSize="25dp"
-        android:textColor="@color/white"/>
+        android:textColor="@color/white"
+        android:onClick="click"/>
 
     <TextView
         android:id="@+id/textView7"
@@ -93,7 +99,8 @@
         android:layout_marginTop="20dp"
         android:text="@string/modulararithmetic7"
         android:textSize="25dp"
-        android:textColor="@color/white"/>
+        android:textColor="@color/white"
+        android:onClick="click"/>
 
 
 </RelativeLayout>

@@ -2,9 +2,12 @@ package com.softlab.khayrul.programmingaccessories;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.text.method.LinkMovementMethod;
+import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.ScrollView;
 import android.widget.TextView;
 
 import java.io.File;
@@ -14,6 +17,9 @@ import java.util.Scanner;
 
 public class MainActivity extends AppCompatActivity {
     TextView text;
+    EditText edittxt;
+    ScrollView scroll;
+    Button button ;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -25,12 +31,13 @@ public class MainActivity extends AppCompatActivity {
     {
         setContentView(R.layout.first);
     }
-    public void showBtn1(View v)
-    {
 
+    public void programming(View v)
+    {
+        setContentView(R.layout.programming);
     }
 
-    public void showBtn2(View v)
+    public void academic(View v)
     {
         setContentView(R.layout.programming);
     }
@@ -138,7 +145,7 @@ public class MainActivity extends AppCompatActivity {
                 setContentView(R.layout.warshall);
                 break;
 
-            case "bublesort" :
+            case "bubblesort" :
                 setContentView(R.layout.bubblesort);
                 break;
 
@@ -179,6 +186,11 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
+    public void click(View v)
+    {
+        TextView text = (TextView)v;
+        text.setMovementMethod(LinkMovementMethod.getInstance());
+    }
     public  void back(View v)
     {
         setContentView(R.layout.programming);
@@ -198,5 +210,17 @@ public class MainActivity extends AppCompatActivity {
             }
         }
         return str;
+    }
+
+    public void search(View v)
+    {
+        edittxt = (EditText)findViewById(R.id.editText);
+        scroll = (ScrollView)findViewById(R.id.scroll);
+        String string = edittxt.getText().toString();
+        string = removeSpace(string);
+        string = string.toLowerCase();
+        int resID = getResources().getIdentifier(string, "id", getPackageName());
+        button = (Button)findViewById(resID);
+        scroll.scrollTo(0,button.getTop());
     }
 }

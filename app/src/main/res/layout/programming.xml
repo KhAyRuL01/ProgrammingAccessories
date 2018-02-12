@@ -3,7 +3,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/softui1">
+    android:background="@drawable/nancy1"
+    android:id="@+id/scroll" >
 
 
     <RelativeLayout
@@ -67,7 +68,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="5sp"
             android:layout_below="@id/eulertotientfunction"
-            android:text="      Fermat's litle theorem"
+            android:text="      Fermats litle theorem"
             android:textAllCaps="false"
             android:textSize="25sp"
             android:textAlignment="viewStart"
@@ -548,13 +549,12 @@
             android:id="@+id/search"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_alignParentEnd="true"
-            android:layout_alignParentRight="true"
             android:layout_alignParentTop="true"
-            android:layout_marginTop="13dp"
+            android:layout_toEndOf="@+id/editText"
+            android:layout_toRightOf="@+id/editText"
             android:background="@null"
             android:onClick="search"
-            android:text="      Search"
+            android:text="  Search"
             android:textColor="@color/white" />
 
 
