@@ -7,6 +7,7 @@ import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.RelativeLayout;
 import android.widget.ScrollView;
 import android.widget.TextView;
 
@@ -20,6 +21,7 @@ public class MainActivity extends AppCompatActivity {
     EditText edittxt;
     ScrollView scroll;
     Button button ;
+    static int pos = -1;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -29,17 +31,21 @@ public class MainActivity extends AppCompatActivity {
     TextView txt;
     public  void firstRun()
     {
+        pos = 1;
         setContentView(R.layout.first);
+
     }
 
     public void programming(View v)
     {
+        pos = 2;
         setContentView(R.layout.programming);
     }
 
     public void academic(View v)
     {
-        setContentView(R.layout.programming);
+        pos = 2;
+        setContentView(R.layout.academic);
     }
 
     public void showBtn3(View v)
@@ -50,6 +56,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void showContent(View v)
     {
+        pos = -1;
         Button button = (Button)v;
         String string = button.getText().toString();
         string = removeSpace(string);
@@ -193,7 +200,9 @@ public class MainActivity extends AppCompatActivity {
     }
     public  void back(View v)
     {
+        pos = 2;
         setContentView(R.layout.programming);
+
     }
 
 
@@ -202,6 +211,12 @@ public class MainActivity extends AppCompatActivity {
     {
         System.exit(1);
     }
+
+    public void exitApp()
+    {
+        System.exit(1);
+    }
+
     public String removeSpace(String s) {
         String str = "";
         for (int i = 0; i < s.length(); i++) {
@@ -222,5 +237,35 @@ public class MainActivity extends AppCompatActivity {
         int resID = getResources().getIdentifier(string, "id", getPackageName());
         button = (Button)findViewById(resID);
         scroll.scrollTo(0,button.getTop());
+    }
+
+    public void showProgramming(View v)
+    {
+        pos = 2;
+        setContentView(R.layout.programming);
+    }
+
+    @Override
+    public void onBackPressed() {
+
+        if(pos == 1)
+        {
+            exitApp();
+        }
+        else if (pos == 2)
+        {
+            pos = 1;
+            setContentView(R.layout.first);
+        }
+        else
+        {
+            pos = 2;
+            setContentView(R.layout.programming);
+        }
+    }
+
+    public void about(View v)
+    {
+        setContentView(R.layout.about);
     }
 }
