@@ -2,8 +2,8 @@
     <string name="app_name">ProgrammingAccessories</string>
 
     <string name="catalannumber1"><a href="https://brilliant.org/wiki/catalan-numbers/">brilliant.org</a></string>
-    <string name="catalannumber2"><a href="https://www.youtube.com/watch?v=GlI17WaMrtwt=1s">Video by TheTrevTutor</a></string>
-    <string name="catalannumber3"><a href="https://en.wikipedia.org/wiki/Catalan_number"></a>wikipedia</string>
+    <string name="catalannumber2"><a href="https://en.wikipedia.org/wiki/Catalan_number">brilliant.org</a></string>
+    <string name="catalannumber3"><a href="https://www.youtube.com/watch?v=GlI17WaMrtwt=1s">Video by TheTrevTutor</a></string>
 
     <string name="eulertotientfunction1"><a href="https://brilliant.org/wiki/eulers-totient-function/">brilliant</a></string>
     <string name="eulertotientfunction2"><a href="https://en.wikipedia.org/wiki/Euler%27s_totient_function">wikipedia</a></string>
@@ -15,7 +15,7 @@
     <string name="fermatslittletheorem3"><a href="https://www.youtube.com/watch?v=w0ZQvZLx2KA">Video by Socratica</a></string>
     <string name="fermatslittletheorem4"><a href="https://www.youtube.com/watch?v=NyLgJM_wX6k">Video by Tanjina Rahman</a></string>
 
-    <string name="factorials1"><a href="https://brilliant.org/wiki/factorials-properties/"></a>brilliant.org</string>
+    <string name="factorials1"><a href="https://brilliant.org/wiki/factorials-properties">brilliant.org</a></string>
     <string name="factorials2"><a href="https://en.wikipedia.org/wiki/Factorial">wikipedia</a></string>
     <string name="factorials3"><a href="https://www.chilimath.com/lessons/intermediate-algebra/simplifying-factorials-with-variables/">chilimath.com</a></string>
     <string name="factorials4"><a href="https://www.youtube.com/watch?v=4j66DS_XTSo">Video by patrickJMT</a></string>
@@ -33,7 +33,7 @@
 
     <string name="modulararithmetic1"><a href="http://www.shafaetsplanet.com/?p=936">shafaetplanet</a></string>
     <string name="modulararithmetic2"><a href="https://en.wikipedia.org/wiki/Modular_arithmetic">wikipedia</a></string>
-    <string name="modulararithmetic3"><a href="https://www.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/what-is-modular-arithmetic"></a></string>
+    <string name="modulararithmetic3"><a href="https://www.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/what-is-modular-arithmetic">khanacademy</a></string>
     <string name="modulararithmetic4"><a href="https://brilliant.org/wiki/modular-arithmetic/">brilliant.org</a></string>
     <string name="modulararithmetic5"><a href="https://www.youtube.com/watch?v=l0DWLBX5d2A">Video by MathsSmart</a></string>
     <string name="modulararithmetic6"><a href="https://www.youtube.com/watch?v=SmD0H_q5Afk">Video by Tanjina Rahman</a></string>
@@ -139,7 +139,7 @@
     <string name="selection3"><a href="https://www.youtube.com/watch?v=GUDLRan2DWMlist=PL2_aWCzGMAwKedT2KfDMB9YA5DgASZb3Uindex=2">Video by Codeschool</a></string>
 
     <string name="combination1"><a href="https://en.wikipedia.org/wiki/Combination">wikipedia</a></string>
-    <string name="combination2"><a href="https://brilliant.org/wiki/combinations/"></a></string>
+    <string name="combination2"><a href="https://brilliant.org/wiki/combinations/">brilliant.org</a></string>
     <string name="combination3"><a href="https://www.youtube.com/watch?v=p8vIcmr_Pqo">Video by Khan Academy</a></string>
 
     <string name="inclusionexclution1"><a href="https://en.wikipedia.org/wiki/Inclusion%E2%80%93exclusion_principle">wikipedia.org</a></string>

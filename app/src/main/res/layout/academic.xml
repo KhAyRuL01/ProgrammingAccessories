@@ -25,7 +25,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:text="Back"
-        android:onClick="back"
+        android:onClick="back2"
         android:background="@null"
         android:textSize="20dp"
         android:textColor="@color/white"/>
