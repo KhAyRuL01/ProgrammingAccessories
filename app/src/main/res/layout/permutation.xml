@@ -14,7 +14,8 @@
         android:layout_marginTop="60dp"
         android:text="@string/permutation1"
         android:textColor="@color/white"
-        android:textSize="25dp" />
+        android:textSize="25dp"
+        android:onClick="click" />
 
 
     <TextView
@@ -27,7 +28,8 @@
         android:layout_marginTop="25dp"
         android:text="@string/permutation2"
         android:textColor="@color/white"
-        android:textSize="25dp" />
+        android:textSize="25dp"
+        android:onClick="click" />
 
     <TextView
         android:id="@+id/textView9"
@@ -41,7 +43,8 @@
         android:layout_marginTop="25dp"
         android:text="@string/permutation3"
         android:textColor="@color/white"
-        android:textSize="25sp" />
+        android:textSize="25sp"
+        android:onClick="click" />
     <Button
         android:id="@+id/button"
         android:layout_width="wrap_content"

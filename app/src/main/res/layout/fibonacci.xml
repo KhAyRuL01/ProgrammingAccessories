@@ -14,7 +14,8 @@
         android:layout_marginTop="60dp"
         android:text="@string/fibonacci1"
         android:textSize="25dp"
-        android:textColor="@color/white"/>
+        android:textColor="@color/white"
+        android:onClick="click"/>
 
     <TextView
         android:id="@+id/textView3"
@@ -26,7 +27,8 @@
         android:layout_marginTop="25dp"
         android:text="@string/fibonacci2"
         android:textSize="25dp"
-        android:textColor="@color/white"/>
+        android:textColor="@color/white"
+        android:onClick="click"/>
 
     <TextView
         android:id="@+id/textView4"
@@ -38,7 +40,8 @@
         android:layout_marginTop="25dp"
         android:text="@string/fibonacci3"
         android:textSize="25dp"
-        android:textColor="@color/white"/>
+        android:textColor="@color/white"
+        android:onClick="click"/>
 
 
     <TextView
@@ -53,7 +56,8 @@
         android:layout_marginTop="25dp"
         android:text="@string/fibonacci4"
         android:textSize="25dp"
-        android:textColor="@color/white"/>
+        android:textColor="@color/white"
+        android:onClick="click"/>
     <Button
         android:id="@+id/button"
         android:layout_width="wrap_content"
