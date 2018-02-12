@@ -66,15 +66,17 @@
             android:id="@+id/fermatlitletheorim"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="5sp"
-            android:layout_below="@id/eulertotientfunction"
-            android:text="      Fermats litle theorem"
-            android:textAllCaps="false"
-            android:textSize="25sp"
-            android:textAlignment="viewStart"
-            android:onClick="showContent"
+            android:layout_alignBaseline="@+id/numbertheory"
+            android:layout_alignBottom="@+id/numbertheory"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
             android:background="@null"
-            android:textColor="@color/white"/>
+            android:onClick="showContent"
+            android:text="      Fermats litle theorem"
+            android:textAlignment="viewStart"
+            android:textAllCaps="false"
+            android:textColor="@color/white"
+            android:textSize="25sp" />
         <Button
             android:id="@+id/factorials"
             android:layout_width="match_parent"
@@ -556,6 +558,29 @@
             android:onClick="search"
             android:text="  Search"
             android:textColor="@color/white" />
+        <Button
+            android:id="@+id/button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:background="@null"
+            android:onClick="showProgramming"
+            android:text="Back"
+            android:textColor="@color/white"/>
+
+        <Button
+            android:id="@+id/button4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:background="@null"
+            android:onClick="exitApp"
+            android:text="Exit"
+            android:textColor="@color/white"/>
 
 
     </RelativeLayout>
