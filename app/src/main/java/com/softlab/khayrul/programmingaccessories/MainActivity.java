@@ -1,30 +1,31 @@
 package com.softlab.khayrul.programmingaccessories;
 
+/**
+ * Created by khayrul
+ */
+
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.text.method.LinkMovementMethod;
-import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
-import android.widget.RelativeLayout;
 import android.widget.ScrollView;
 import android.widget.TextView;
 
-import java.io.File;
-import java.io.FileWriter;
-import java.io.InputStream;
-import java.util.Scanner;
-
 public class MainActivity extends AppCompatActivity {
+
     TextView text;
     EditText edittxt;
     ScrollView scroll;
     Button button ;
     static int pos = -1;
+    Activity2 activity2;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        activity2 = new Activity2();
         firstRun();
     }
 
@@ -54,27 +55,28 @@ public class MainActivity extends AppCompatActivity {
         txt.setText("About");
     }
 
+    //show show clickable string
     public void showContent(View v)
     {
         pos = -1;
         Button button = (Button)v;
         String string = button.getText().toString();
-        string = removeSpace(string);
+        string = activity2.removeSpace(string);
         string = string.toLowerCase();
 //        txt = (TextView)findViewById(R.id.showtext);
 //        txt.setText(string);
         switch (string)
         {
             case "catalannumber" :
-                setContentView(R.layout.show);
+                setContentView(R.layout.catalannumber);
                 break;
 
             case "eulertotientfunction" :
                 setContentView(R.layout.eulertotientfunction);
                 break;
 
-            case "fermatstitletheorem" :
-                setContentView(R.layout.fermatstitletheorem);
+            case "fermatslitletheorem" :
+                setContentView(R.layout.fermatslitletheorem);
                 break;
 
             case "factorials" :
@@ -193,6 +195,7 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
+    //This method open the link by default browser
     public void click(View v)
     {
         TextView text = (TextView)v;
@@ -206,33 +209,34 @@ public class MainActivity extends AppCompatActivity {
     }
 
 
+    public void back2(View v)
+    {
+        pos = 2;
+        setContentView(R.layout.programming);
+    }
 
+
+
+    //Exit the app by button click
     public void exitApp(View v)
     {
         System.exit(1);
     }
 
+    //Exit the app
     public void exitApp()
     {
         System.exit(1);
     }
 
-    public String removeSpace(String s) {
-        String str = "";
-        for (int i = 0; i < s.length(); i++) {
-            if (s.charAt(i) != ' ') {
-                str += s.charAt(i);
-            }
-        }
-        return str;
-    }
 
+    //Search something from list
     public void search(View v)
     {
         edittxt = (EditText)findViewById(R.id.editText);
         scroll = (ScrollView)findViewById(R.id.scroll);
         String string = edittxt.getText().toString();
-        string = removeSpace(string);
+        string = activity2.removeSpace(string);
         string = string.toLowerCase();
         int resID = getResources().getIdentifier(string, "id", getPackageName());
         button = (Button)findViewById(resID);
@@ -245,6 +249,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.programming);
     }
 
+    //Use android default back button
     @Override
     public void onBackPressed() {
 
@@ -266,6 +271,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void about(View v)
     {
+        pos = 2;
         setContentView(R.layout.about);
     }
 }

@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    android:background="@drawable/nancy1">
 
 
     <TextView
@@ -14,8 +15,8 @@
         android:layout_marginLeft="13dp"
         android:layout_marginStart="13dp"
         android:layout_marginTop="177dp"
-        android:text="TextView"
-        android:textSize="20dp"
+        android:text="     No result found!"
+        android:textSize="35dp"
         android:textColor="@color/white"/>
 
     <Button

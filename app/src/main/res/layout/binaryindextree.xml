@@ -14,7 +14,7 @@
         android:layout_marginTop="60dp"
         android:text="@string/BinaryIndexTree1"
         android:textColor="@color/white"
-        android:textSize="20sp"
+        android:textSize="25sp"
         android:onClick="click" />
 
     <TextView
@@ -27,7 +27,7 @@
         android:layout_marginTop="25dp"
         android:text="@string/BinaryIndexTree2"
         android:textColor="@color/white"
-        android:textSize="20sp" 
+        android:textSize="25sp"
         android:onClick="click"/>
 
     <TextView
@@ -42,7 +42,7 @@
         android:layout_marginTop="25dp"
         android:text="@string/BinaryIndexTree3"
         android:textColor="@color/white"
-        android:textSize="23sp"
+        android:textSize="25sp"
         android:onClick="click" />
 
     <Button
@@ -55,7 +55,8 @@
         android:background="@null"
         android:onClick="showProgramming"
         android:text="Back"
-        android:textColor="@color/white"/>
+        android:textColor="@color/white"
+        android:textSize="20dp"/>
 
     <Button
         android:id="@+id/button4"
@@ -67,5 +68,6 @@
         android:background="@null"
         android:onClick="exitApp"
         android:text="Exit"
-        android:textColor="@color/white"/>
+        android:textColor="@color/white"
+        android:textSize="20dp"/>
 </RelativeLayout>

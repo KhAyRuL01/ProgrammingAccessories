@@ -14,7 +14,7 @@
         android:layout_marginTop="60dp"
         android:text="@string/catalannumber1"
         android:textColor="@color/white"
-        android:textSize="20sp"
+        android:textSize="25sp"
         android:onClick="click" />
 
     <TextView
@@ -27,7 +27,7 @@
         android:layout_marginTop="25dp"
         android:text="@string/catalannumber2"
         android:textColor="@color/white"
-        android:textSize="20sp"
+        android:textSize="25sp"
         android:onClick="click" />
 
     <TextView
@@ -42,7 +42,7 @@
         android:layout_marginTop="25dp"
         android:text="@string/catalannumber3"
         android:textColor="@color/white"
-        android:textSize="23sp"
+        android:textSize="25sp"
         android:onClick="click" />
 
     <Button
@@ -67,6 +67,6 @@
         android:onClick="exitApp"
         android:text="Exit"
         android:textSize="20dp"
-        android:textColor="@color/white"/>
+        android:textColor="@color/white" />
 
 </RelativeLayout>

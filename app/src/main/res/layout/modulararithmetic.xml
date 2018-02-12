@@ -41,7 +41,7 @@
         android:layout_below="@+id/textView2"
         android:layout_marginLeft="40dp"
         android:layout_marginTop="20dp"
-        android:text="modulararithmetic3"
+        android:text="@string/modulararithmetic3"
         android:textSize="25dp"
         android:textColor="@color/white"
         android:onClick="click"/>
@@ -111,7 +111,8 @@
         android:background="@null"
         android:onClick="showProgramming"
         android:text="Back"
-        android:textColor="@color/white"/>
+        android:textColor="@color/white"
+        android:textSize="20dp"/>
 
     <Button
         android:id="@+id/button4"
@@ -123,7 +124,8 @@
         android:background="@null"
         android:onClick="exitApp"
         android:text="Exit"
-        android:textColor="@color/white"/>
+        android:textColor="@color/white"
+        android:textSize="20dp"/>
 
 
 </RelativeLayout>

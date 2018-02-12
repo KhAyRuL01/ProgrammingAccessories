@@ -11,10 +11,10 @@
         android:layout_alignLeft="@+id/textView9"
         android:layout_alignParentTop="true"
         android:layout_alignStart="@+id/textView9"
-        android:layout_marginTop="60dp"
+        android:layout_marginTop="80dp"
         android:text="@string/Queue1"
         android:textColor="@color/white"
-        android:textSize="20sp"
+        android:textSize="25sp"
         android:onClick="click" />
 
     <TextView
@@ -27,7 +27,7 @@
         android:layout_marginTop="25dp"
         android:text="@string/Queue2"
         android:textColor="@color/white"
-        android:textSize="20sp"
+        android:textSize="25sp"
         android:onClick="click" />
 
     <TextView
@@ -42,7 +42,7 @@
         android:layout_marginTop="25dp"
         android:text="@string/Queue3"
         android:textColor="@color/white"
-        android:textSize="23sp"
+        android:textSize="25sp"
         android:onClick="click" />
 
 
@@ -56,7 +56,8 @@
         android:background="@null"
         android:onClick="showProgramming"
         android:text="Back"
-        android:textColor="@color/white"/>
+        android:textColor="@color/white"
+        android:textSize="20dp"/>
 
     <Button
         android:id="@+id/button4"
@@ -68,6 +69,7 @@
         android:background="@null"
         android:onClick="exitApp"
         android:text="Exit"
-        android:textColor="@color/white"/>
+        android:textColor="@color/white"
+        android:textSize="20dp"/>
 
 </RelativeLayout>
