@@ -15,7 +15,8 @@
         android:layout_marginTop="60dp"
         android:text="@string/bublesort1"
         android:textColor="@color/white"
-        android:textSize="20sp" />
+        android:textSize="20sp"
+        android:onClick="click" />
 
     <TextView
         android:id="@+id/textView8"
@@ -27,7 +28,8 @@
         android:layout_marginTop="25dp"
         android:text="@string/bublesort2"
         android:textColor="@color/white"
-        android:textSize="20sp" />
+        android:textSize="20sp"
+        android:onClick="click" />
 
     <TextView
         android:id="@+id/textView9"
@@ -41,7 +43,8 @@
         android:layout_marginTop="25dp"
         android:text="@string/bublesort3"
         android:textColor="@color/white"
-        android:textSize="23sp" />
+        android:textSize="23sp"
+        android:onClick="click" />
     <Button
         android:id="@+id/button"
         android:layout_width="wrap_content"

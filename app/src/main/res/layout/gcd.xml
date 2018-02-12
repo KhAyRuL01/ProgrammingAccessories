@@ -16,7 +16,8 @@
         android:layout_marginTop="88dp"
         android:text="@string/gcd1"
         android:textSize="25dp"
-        android:textColor="@color/white"/>
+        android:textColor="@color/white"
+        android:onClick="click"/>
 
     <TextView
         android:id="@+id/textView2"
@@ -28,7 +29,8 @@
         android:layout_marginTop="22dp"
         android:text="@string/gcd2"
         android:textSize="25dp"
-        android:textColor="@color/white"/>
+        android:textColor="@color/white"
+        android:onClick="click"/>
 
     <TextView
         android:id="@+id/textView3"
@@ -40,7 +42,8 @@
         android:layout_marginTop="20dp"
         android:text="@string/gcd3"
         android:textSize="25dp"
-        android:textColor="@color/white"/>
+        android:textColor="@color/white"
+        android:onClick="click"/>
 
     <TextView
         android:id="@+id/textView4"
@@ -52,7 +55,8 @@
         android:layout_marginTop="18dp"
         android:text="@string/gcd4"
         android:textSize="25dp"
-        android:textColor="@color/white"/>
+        android:textColor="@color/white"
+        android:onClick="click"/>
     <Button
         android:id="@+id/button"
         android:layout_width="wrap_content"

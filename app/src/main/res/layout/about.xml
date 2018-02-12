@@ -15,7 +15,8 @@
         android:layout_marginLeft="13dp"
         android:layout_marginStart="13dp"
         android:layout_marginTop="177dp"
-        android:text="TextView"
+        android:text="ProgrammingAccessories is a project which aims in developing programming knowledge. This project development programming system that was developed to manage the daily activities of programming. ProgrammingAccessories is mainly used by students as programming interested.
+It's main feature such as various things of programming. By using this apps the time for searching a topic is reduced. Students do not have to wait for searching a book,they can easily browsing a topic and achieve vast knowledge about this topic which he/she is searched."
         android:textSize="20dp"
         android:textColor="@color/white"/>
 

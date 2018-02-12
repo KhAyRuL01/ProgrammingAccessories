@@ -3,4 +3,69 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
+    <TextView
+        android:id="@+id/binaryindextree"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/textView9"
+        android:layout_alignParentTop="true"
+        android:layout_alignStart="@+id/textView9"
+        android:layout_marginTop="60dp"
+        android:text="@string/selection1"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        android:onClick="click" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/binaryindextree"
+        android:layout_alignStart="@+id/binaryindextree"
+        android:layout_below="@+id/binaryindextree"
+        android:layout_marginTop="25dp"
+        android:text="@string/selection2"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        android:onClick="click" />
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/textView8"
+        android:layout_marginLeft="68dp"
+        android:layout_marginStart="68dp"
+        android:layout_marginTop="25dp"
+        android:text="@string/selection3"
+        android:textColor="@color/white"
+        android:textSize="23sp"
+        android:onClick="click" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:background="@null"
+        android:onClick="showProgramming"
+        android:text="Back"
+        android:textColor="@color/white"/>
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:background="@null"
+        android:onClick="exitApp"
+        android:text="Exit"
+        android:textColor="@color/white"/>
+
 </RelativeLayout>

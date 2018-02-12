@@ -15,7 +15,8 @@
         android:text="@string/primenumber1"
         android:textSize="25dp"
         android:layout_marginLeft="40dp"
-        android:textColor="@color/white"/>
+        android:textColor="@color/white"
+        android:onClick="click"/>
 
     <TextView
         android:id="@+id/textView2"
@@ -28,7 +29,8 @@
         android:text="@string/primenumber2"
         android:textSize="25dp"
         android:layout_marginLeft="40dp"
-        android:textColor="@color/white"/>
+        android:textColor="@color/white"
+        android:onClick="click"/>
 
     <TextView
         android:id="@+id/textView3"
@@ -41,7 +43,8 @@
         android:text="@string/primenumber3"
         android:textSize="25dp"
         android:layout_marginLeft="40dp"
-        android:textColor="@color/white"/>
+        android:textColor="@color/white"
+        android:onClick="click"/>
 
     <TextView
         android:id="@+id/textView4"
@@ -54,7 +57,8 @@
         android:text="@string/primenumber4"
         android:textSize="25dp"
         android:layout_marginLeft="40dp"
-        android:textColor="@color/white"/>
+        android:textColor="@color/white"
+        android:onClick="click"/>
     <Button
         android:id="@+id/button"
         android:layout_width="wrap_content"

@@ -14,7 +14,8 @@
         android:layout_marginTop="100dp"
         android:text="@string/fermatslittletheorem1"
         android:textSize="25dp"
-        android:textColor="@color/white"/>
+        android:textColor="@color/white"
+        android:onClick="click"/>
 
     <TextView
         android:id="@+id/textView3"
@@ -26,7 +27,8 @@
         android:layout_marginTop="23dp"
         android:text="@string/fermatslittletheorem2"
         android:textSize="25dp"
-        android:textColor="@color/white"/>
+        android:textColor="@color/white"
+        android:onClick="click"/>
 
     <TextView
         android:id="@+id/textView4"
@@ -40,7 +42,8 @@
         android:layout_marginTop="20dp"
         android:text="@string/fermatslittletheorem3"
         android:textSize="25dp"
-        android:textColor="@color/white"/>
+        android:textColor="@color/white"
+        android:onClick="click"/>
 
 
     <TextView
@@ -54,7 +57,8 @@
         android:text="@string/fermatslittletheorem3"
         android:textSize="25dp"
         android:textColor="@color/white"
-        android:autoLink="web"/>
+        android:onClick="click"/>
+
     <Button
         android:id="@+id/button"
         android:layout_width="wrap_content"
