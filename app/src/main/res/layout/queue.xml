@@ -15,6 +15,7 @@
         android:text="@string/Queue1"
         android:textColor="@color/white"
         android:textSize="25sp"
+        android:textColorLink="@color/white"
         android:onClick="click" />
 
     <TextView
@@ -28,6 +29,7 @@
         android:text="@string/Queue2"
         android:textColor="@color/white"
         android:textSize="25sp"
+        android:textColorLink="@color/white"
         android:onClick="click" />
 
     <TextView
@@ -43,6 +45,7 @@
         android:text="@string/Queue3"
         android:textColor="@color/white"
         android:textSize="25sp"
+        android:textColorLink="@color/white"
         android:onClick="click" />
 
 

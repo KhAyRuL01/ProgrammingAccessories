@@ -13,6 +13,7 @@
         android:layout_alignStart="@+id/textView9"
         android:layout_marginTop="100dp"
         android:text="@string/Heap1"
+        android:textColorLink="@color/white"
         android:textColor="@color/white"
         android:textSize="25sp"
         android:onClick="click" />
@@ -27,6 +28,7 @@
         android:layout_marginTop="25dp"
         android:text="@string/Heap2"
         android:textColor="@color/white"
+        android:textColorLink="@color/white"
         android:textSize="25sp"
         android:onClick="click" />
 
@@ -40,6 +42,7 @@
         android:layout_marginLeft="68dp"
         android:layout_marginStart="68dp"
         android:layout_marginTop="25dp"
+        android:textColorLink="@color/white"
         android:text="@string/Heap3"
         android:textColor="@color/white"
         android:textSize="25sp"

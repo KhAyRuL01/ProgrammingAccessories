@@ -14,6 +14,7 @@
         android:layout_marginLeft="40dp"
         android:layout_marginTop="60dp"
         android:text="@string/modulararithmetic1"
+        android:textColorLink="@color/white"
         android:textSize="25dp"
         android:textColor="@color/white"
         android:onClick="click"/>
@@ -28,6 +29,7 @@
         android:layout_below="@+id/textView1"
         android:layout_marginTop="22dp"
         android:text="@string/modulararithmetic2"
+        android:textColorLink="@color/white"
         android:textSize="25dp"
         android:textColor="@color/white"
         android:onClick="click"/>
@@ -43,6 +45,7 @@
         android:layout_marginTop="20dp"
         android:text="@string/modulararithmetic3"
         android:textSize="25dp"
+        android:textColorLink="@color/white"
         android:textColor="@color/white"
         android:onClick="click"/>
 
@@ -57,6 +60,7 @@
         android:layout_marginLeft="40dp"
         android:text="@string/modulararithmetic4"
         android:textSize="25dp"
+        android:textColorLink="@color/white"
         android:textColor="@color/white"
         android:onClick="click"/>
 
@@ -71,6 +75,7 @@
         android:layout_marginTop="20dp"
         android:text="@string/modulararithmetic5"
         android:textSize="25dp"
+        android:textColorLink="@color/white"
         android:textColor="@color/white"
         android:onClick="click"/>
 
@@ -85,6 +90,7 @@
         android:layout_marginTop="20dp"
         android:text="@string/modulararithmetic6"
         android:textSize="25dp"
+        android:textColorLink="@color/white"
         android:textColor="@color/white"
         android:onClick="click"/>
 
@@ -99,8 +105,10 @@
         android:layout_marginTop="20dp"
         android:text="@string/modulararithmetic7"
         android:textSize="25dp"
+        android:textColorLink="@color/white"
         android:textColor="@color/white"
         android:onClick="click"/>
+
     <Button
         android:id="@+id/button"
         android:layout_width="wrap_content"

@@ -14,6 +14,7 @@
         android:layout_marginTop="60dp"
         android:text="@string/inclusionexclution1"
         android:textColor="@color/white"
+        android:textColorLink="@color/white"
         android:textSize="25sp"
         android:onClick="click" />
 
@@ -25,6 +26,7 @@
         android:layout_alignStart="@+id/binaryindextree"
         android:layout_below="@+id/binaryindextree"
         android:layout_marginTop="25dp"
+        android:textColorLink="@color/white"
         android:text="@string/inclusionexclution2"
         android:textColor="@color/white"
         android:textSize="25sp"
@@ -40,6 +42,7 @@
         android:layout_marginLeft="68dp"
         android:layout_marginStart="68dp"
         android:layout_marginTop="25dp"
+        android:textColorLink="@color/white"
         android:text="@string/inclusionexclution3"
         android:textColor="@color/white"
         android:textSize="25sp"

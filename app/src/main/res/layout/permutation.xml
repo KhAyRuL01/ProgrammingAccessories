@@ -15,6 +15,7 @@
         android:text="@string/permutation1"
         android:textColor="@color/white"
         android:textSize="25dp"
+        android:textColorLink="@color/white"
         android:onClick="click" />
 
 
@@ -27,6 +28,7 @@
         android:layout_below="@+id/binaryindextree"
         android:layout_marginTop="25dp"
         android:text="@string/permutation2"
+        android:textColorLink="@color/white"
         android:textColor="@color/white"
         android:textSize="25dp"
         android:onClick="click" />
@@ -43,6 +45,7 @@
         android:layout_marginTop="25dp"
         android:text="@string/permutation3"
         android:textColor="@color/white"
+        android:textColorLink="@color/white"
         android:textSize="25sp"
         android:onClick="click" />
 
