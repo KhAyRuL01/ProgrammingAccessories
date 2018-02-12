@@ -28,7 +28,8 @@
         android:text="@string/AdjacencyList2"
         android:textColor="@color/white"
         android:textSize="25sp"
-        android:onClick="click" />
+        android:onClick="click"
+        android:textColorLink="@color/white"/>
 
     <TextView
         android:id="@+id/textView4"
@@ -43,7 +44,8 @@
         android:text="@string/AdjacencyList3"
         android:textColor="@color/white"
         android:textSize="25sp"
-        android:onClick="click" />
+        android:onClick="click"
+        android:textColorLink="@color/white"/>
 
     <Button
         android:id="@+id/button"
