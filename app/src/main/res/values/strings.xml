@@ -5,12 +5,12 @@
     <string name="catalannumber2"><a href="https://www.youtube.com/watch?v=GlI17WaMrtwt=1s">Video by TheTrevTutor</a></string>
     <string name="catalannumber3"><a href="https://en.wikipedia.org/wiki/Catalan_number"></a>wikipedia</string>
 
-    <string name="eulertotientfunction1"><a href="https://brilliant.org/wiki/eulers-totient-function/">brilliant.org</a></string>
-    <string name="eulertotientfunction2"><a href="https://en.wikipedia.org/wiki/Euler%27s_totient_function"></a>wikipedia</string>
+    <string name="eulertotientfunction1"><a href="https://brilliant.org/wiki/eulers-totient-function/">brilliant</a></string>
+    <string name="eulertotientfunction2"><a href="https://en.wikipedia.org/wiki/Euler%27s_totient_function">wikipedia</a></string>
     <string name="eulertotientfunction3"><a href="https://www.coursera.org/learn/number-theory-cryptography/lecture/wTmtM/eulers-totient-function">Coursera.org</a></string>
     <string name="eulertotientfunction4"><a href="https://www.youtube.com/watch?v=F7a6XfxCjbE">Video by Happy Learning</a></string>
 
-    <string name="fermatslittletheorem1"><a href="https://brilliant.org/wiki/fermats-little-theorem">Brillant.org</a></string>
+    <string name="fermatslittletheorem1"><a href="https://brilliant.org/wiki/fermats-little-theorem">brillant.org</a></string>
     <string name="fermatslittletheorem2"><a href="https://en.wikipedia.org/wiki/Fermat%27s_little_theorem">wikipedia</a></string>
     <string name="fermatslittletheorem3"><a href="https://www.youtube.com/watch?v=w0ZQvZLx2KA">Video by Socratica</a></string>
     <string name="fermatslittletheorem4"><a href="https://www.youtube.com/watch?v=NyLgJM_wX6k">Video by Tanjina Rahman</a></string>

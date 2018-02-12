@@ -16,6 +16,7 @@
         android:text="@string/eulertotientfunction1"
         android:textSize="25dp"
         android:textColor="@color/white"
+        android:onClick="click"
         />
 
     <TextView
@@ -28,7 +29,8 @@
         android:layout_marginTop="35dp"
         android:text="@string/eulertotientfunction2"
         android:textSize="25dp"
-        android:textColor="@color/white"/>
+        android:textColor="@color/white"
+        android:onClick="click"/>
 
     <TextView
         android:id="@+id/textView4"
@@ -40,7 +42,8 @@
         android:layout_marginTop="29dp"
         android:text="@string/eulertotientfunction3"
         android:textSize="25dp"
-        android:textColor="@color/white"/>
+        android:textColor="@color/white"
+        android:onClick="click"/>
 
     <TextView
         android:id="@+id/textView1"
@@ -51,6 +54,7 @@
         android:layout_marginTop="25dp"
         android:text="@string/eulertotientfunction4"
         android:textSize="25dp"
-        android:textColor="@color/white"/>
+        android:textColor="@color/white"
+        android:onClick="click"/>
 
 </RelativeLayout>
